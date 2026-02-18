@@ -1,4 +1,4 @@
-# Core dependencies
+
 langgraph>=0.2.0
 langchain-core>=0.3.0
 langchain-mcp>=0.1.0
@@ -7,3 +7,6 @@ streamlit>=1.30.0
 
 # MCP Support
 mcp[cli]>=1.0.0
+
+# Mock LLM for local development
+stackloklabs-mockllm>=0.1.0
