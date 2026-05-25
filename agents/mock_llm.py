@@ -1,3 +1,4 @@
+# MockLLM for deterministic testing of agent interactions
 from langchain_core.messages import AIMessage, BaseMessage
 
 class MockLLM:
