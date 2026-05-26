@@ -1,7 +1,7 @@
 
 # 🛩️ MarketPilot
 
-MarketPilot is an AI‑powered **market analysis and strategy assistant** built using a multi‑agent architecture. It retrieves market data, analyzes trends, and generates trading strategies through a combination of LLM reasoning and MCP‑powered tools. The system is designed to be modular, extensible, and resilient — capable of operating with or without tool access.
+MarketPilot is an AI‑powered market analysis and strategy assistant built on a multi‑agent orchestration architecture. It retrieves market data, analyzes trends, and generates trading strategies through a combination of LLM reasoning and MCP‑powered tools. The system is designed to be modular, extensible, and resilient — capable of operating with or without tool access.
 
 ---
 
